@@ -39,4 +39,4 @@ Open an issue or submit a pull request for improvements or bug fixes.
 
 ## License
 
-MIT — modify as needed.
+Proprietary — All rights reserved by the project owner. Do not redistribute without permission.
