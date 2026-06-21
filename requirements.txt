@@ -1,0 +1,4 @@
+# Requirements for MSFoundryScheduleAgent
+# Add project dependencies below, one per line. Examples:
+# requests
+# python-dotenv

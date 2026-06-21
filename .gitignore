@@ -1,0 +1,98 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+venv.bak/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled Python files
+*.pyc
+
+# Microsoft Foundry agent artifacts
+*.db
+*.sqlite
+
+# Coverage and reports
+coverage/
+reports/
+
+# Wheel cache
+pip-wheel-metadata/
+
+# Local env files
+local_settings.py
+
+# Ignore node modules if any
+node_modules/
